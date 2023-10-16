@@ -1,0 +1,3 @@
+D:/UE_PROJECTS/GemetrySandbox/out/build/x64-Debug/CMakeFiles/GemetrySandbox.dir
+D:/UE_PROJECTS/GemetrySandbox/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/UE_PROJECTS/GemetrySandbox/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
