@@ -69,8 +69,6 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override; // Вызывается один раз когда началась игра или когда актор заспавнен 
 	
-	virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
-
 	UPROPERTY(EditAnywhere, Category = "Weapon")
 	int32 WeaponsNum = 44;
 
